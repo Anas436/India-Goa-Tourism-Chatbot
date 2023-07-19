@@ -59,3 +59,5 @@ Use this Repository as a template for creating Local Chapter Repositories
 
 - Omdena Local Chapter [Link](https://omdena.com/chapter-challenges/ai-chatbot-for-tourism-in-goa/)
 - Omdena Github URL [Link](https://github.com/OmdenaAI/goa-india-chatbot-tourism/tree/main)
+- Github URL [Link](https://github.com/dipakbariya/GoaTourismChatbot)
+- Types of Chatbot Technology [Link](https://medium.com/voice-tech-podcast/types-of-chatbot-technology-72d095df2540)
