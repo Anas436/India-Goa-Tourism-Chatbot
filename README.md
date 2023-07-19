@@ -55,4 +55,7 @@ Use this Repository as a template for creating Local Chapter Repositories
 - Visualization     - Folder to store dashboards, analysis and visualization reports
 - Results           - Folder to store final analysis modelling results for the project.
 
+## Resources
 
+- Omdena Local Chapter [Link](https://omdena.com/chapter-challenges/ai-chatbot-for-tourism-in-goa/)
+- Omdena Github URL [Link](https://github.com/OmdenaAI/goa-india-chatbot-tourism/tree/main)
